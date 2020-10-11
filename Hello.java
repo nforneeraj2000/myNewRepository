@@ -4,7 +4,7 @@ public class Hello{
 		
 		for(int i=1;i<=11;i++){
 			
-			System.out.println("Hello Mr Neeraj Gupta ... "+i);
+			System.out.println("Hello Mr Samir Gupta and Mr Rajiv Gupta ... "+i);
 		
 		}
 	
